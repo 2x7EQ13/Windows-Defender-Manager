@@ -17,3 +17,10 @@ Windows Defender Manager is an open-source C# program. It will disable the follo
 
 - Windows 11 Lasted version
 - Windows 10 Lasted version
+
+# Important note:
+
+### You must disable the "Tamper Protection" feature of Microsoft Defender Antivirus to run successfully.
+
+
+![turn off tamper protection](https://github.com/user-attachments/assets/93e03f79-f77e-4e8d-9de5-1a547cfb23ed)
