@@ -2,7 +2,7 @@
 
 ![icons8-broken-shield-60](https://github.com/user-attachments/assets/124b4218-6acd-45ea-ad0a-983d2c7c3670)
 
-Windows Defender Manager is an open-source C# program. It will disable the following functions of Microsoft Defender Antivirus:
+Windows Defender Manager is an open-source C# program. By interacting with the Antimalware Service Executable through APIs, it will disable the following functions of Microsoft Defender Antivirus:
 
 - Real-time protection
 - Cloud-delevired protection
